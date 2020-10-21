@@ -17,56 +17,56 @@ Product Development Associate
 August 2018 - August 2019 (1 year 1 month)
 Pune Area, India
 
-#Top Skills
+##Top Skills
 
-Microsoft Office
+> Microsoft Office
 
-Leadership
+> Leadership
 
-Microsoft Word
+> Microsoft Word
 
-Microsoft PowerPoint
+> Microsoft PowerPoint
 
-Oracle Database
+> Oracle Database
 
-MySQL
+> MySQL
 
-Python
+> Python
 
-C++
+> C++
 
-C
+> C
 
-HTML
+> HTML
 
-XML
+> XML
 
-PHP
+> PHP
 
-Node.js
+> Node.js
 
-React.js
+> React.js
 
-Java
+> Java
 
-SQL
+> SQL
 
-Eclipse
+> Eclipse
 
-AngularJS
+> AngularJS
 
 
 ## Projects
 
 
-#National Robotics Championship
+######National Robotics Championship
 
 *[28/06/2015] – [30/06/2015]*
 
 A robot was built that made movements according to the analyzed the gestures. This involved
 programming of arduino board and interfacing of web camera and LED's.
 
-#Employability Skills Development
+######Employability Skills Development
 
 *[30/06/2016] – [25/08/2016]*
 
@@ -75,7 +75,7 @@ algorithms like K-means clustering, Linear Regression, and Map-Reduce were studi
 SQL and MongoDB databases along with implementation of triggers, pl/sql queries were
 studied.
 
-#E-Commerce Web Development
+######E-Commerce Web Development
 
 *[30/07/2016] – [25/08/2016]*
 
@@ -83,7 +83,7 @@ A workshop about web development for an e-commerce website enabled one to learn 
 Data handling the Data with SQL and architecture design along with front-end and back-end
 connectivity. These modules were then Implemented using XAMPP as a local host server.
 
-#Mini Project - Society Master
+######Mini Project - Society Master
 
 *[26/09/2016] – [25/12/2016]*
 
@@ -94,7 +94,7 @@ maintain the dues of the society and residents of the society can add complaints
 pictures of the society events and check the pending dues if any. The project involved
 programing in HTML, PHP, CSS, JavaScript, MongoDB.
 
-#Internship – Build the World
+######Internship – Build the World
 
 *[01/07/2017]-[30/09/2017]*
 
@@ -107,14 +107,14 @@ mentioned STACK. My knowledge of MongoDB has also helped me to design schemas
 necessary for this platform. Testing and debugging of a mobile based platform using React
 Native.
 
-#Equity Forecast
+######Equity Forecast
 
 *[01/06/2018]-[31/08/2018]*
 
 The project involved prediction of stocks of ICICI Bank from year 2013-2017 using machine
 learning(regression learning). Technologies used: Python,Quandl API(dataset),plotly,mongodb.
 
-#B.E Project - D-Bug
+######B.E Project - D-Bug
 
 *[01/06/2018]-[31/05/2018]*
 
@@ -126,7 +126,7 @@ learning model and retrained it on the images we have acquired ourselves. We eve
 with ICARG(Indian Council of Agricultural Research Grapvenes) to understand the
 pseudococcidae (mealybug) better.
 
-#Futures Connect
+######Futures Connect
 
 *[06/05/2018] – [15/06/2019]*
 
