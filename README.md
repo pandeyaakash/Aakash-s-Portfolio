@@ -55,8 +55,17 @@ Pune Area, India
 
 > AngularJS
 
+## Honors-Awards
 
-## Projects
+#### Laureate Award - Q3 2018
+
+#### PTS Table Tennis Champion
+
+#### FIS InnovateIN48 2019 Finalist
+
+#### FIS InnovateIN48 App Sec Round Runners Up
+
+## Projects Undertaken
 
 
 ### National Robotics Championship
@@ -126,7 +135,7 @@ learning model and retrained it on the images we have acquired ourselves. We eve
 with ICARG(Indian Council of Agricultural Research Grapvenes) to understand the
 pseudococcidae (mealybug) better.
 
-#### Futures Connect
+### Futures Connect
 
 *[06/05/2018] – [15/06/2019]*
 
