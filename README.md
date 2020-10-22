@@ -1,4 +1,4 @@
-## Welcome to Aakash's Portfolio
+
 
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 
@@ -10,18 +10,18 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 FIS
 
-2 years 3 months
-Software Engineer
+### Software Engineer
 August 2018 - Present (2 years 3 months)
 Pune Area, India
-Product Development Associate
+
+### Product Development Associate
 August 2018 - August 2019 (1 year 1 month)
 Pune Area, India
 
+### Business Development Associate
+June 2018 - August 2018 (2 months)
 
 ## Top Skills
-
-> Microsoft Office
 
 > Leadership
 
@@ -52,8 +52,6 @@ Pune Area, India
 > Java
 
 > SQL
-
-> Eclipse
 
 > AngularJS
 
@@ -150,9 +148,9 @@ learning model and retrained it on the images we have acquired ourselves. We eve
 with ICARG(Indian Council of Agricultural Research Grapvenes) to understand the
 pseudococcidae (mealybug) better.
 
-#### Futures Connect
+#### FTP Hub
 
 *[06/05/2018] – [15/06/2019]*
 
-Project descriptionIt is a file transfer and data manipulation system, by which we can copy files, email a report, execute store procedures, and manipulate data with different business logic.
+It is a file transfer and data manipulation system, by which we can copy files, email a report, execute store procedures, and manipulate data with different business logic.
 
