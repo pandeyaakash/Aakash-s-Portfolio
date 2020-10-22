@@ -1,25 +1,40 @@
-
+## About
 
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 
 Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
 
+## Education
 
+### Maharashtra Institute of Technology
+#### Bachelor's of Engineering (Information Technology)
+##### [2014 - 2018] Passed with Distinction
+
+### Shiv Jyoti Sr. Sec. School
+#### Higher Secondary 12th CBSE Board
+##### [2012 - 2013] Passed with 84.40 %
+
+### Anand Niketan Satellite School
+#### Senior Secondary 10th ICSE Board
+##### [2010 - 2011] Passed with 91.2 %
 
 ## Experience
 
-FIS
+### FIS Global Solutions Pvt. Ltd.
 
-### Software Engineer
+#### Software Engineer
 August 2018 - Present (2 years 3 months)
 Pune Area, India
 
-### Product Development Associate
+#### Product Development Associate
 August 2018 - August 2019 (1 year 1 month)
 Pune Area, India
 
-### Business Development Associate
+### BYJUS - Think and Learn Pvt. Ltd.
+
+#### Business Development Associate
 June 2018 - August 2018 (2 months)
+
 
 ## Top Skills
 
@@ -148,7 +163,7 @@ learning model and retrained it on the images we have acquired ourselves. We eve
 with ICARG(Indian Council of Agricultural Research Grapvenes) to understand the
 pseudococcidae (mealybug) better.
 
-#### FTP Hub
+#### FTP HUB
 
 *[06/05/2018] – [15/06/2019]*
 
