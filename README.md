@@ -17,7 +17,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 ### Shiv Jyoti Sr. Sec. School
 **Higher Secondary 12th CBSE Board**
-[2012 - 2013] Passed with 84.40 %
+[2012 - 2013] Passed with <span style="color:red;">84.4%</span>
 
 
 ### Anand Niketan Satellite School
