@@ -5,6 +5,7 @@ An innovative developer with industry experience building web and desktop applic
 Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
 
 
+---
 
 
 ## Education
@@ -24,6 +25,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 [2010 - 2011] Passed with 91.2 %
 
 
+---
 
 
 ## Experience
@@ -50,6 +52,7 @@ June 2017 - October 2017 (5 months)
 
 
 
+---
 
 
 ## Top Skills
@@ -87,7 +90,7 @@ June 2017 - October 2017 (5 months)
 > AngularJS
 
 
-
+---
 
 
 ## Projects Undertaken
@@ -167,6 +170,7 @@ pseudococcidae (mealybug) better.
 It is a file transfer and data manipulation system, by which we can copy files, email a report, execute store procedures, and manipulate data with different business logic.
 
 
+---
 
 
 ## Honors-Awards
