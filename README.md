@@ -10,17 +10,17 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 ## Education
 
 ### Maharashtra Institute of Technology
-** Bachelor's of Engineering (Information Technology) **
+**Bachelor's of Engineering (Information Technology)**
 [2014 - 2018] Passed with Distinction
 
 
 ### Shiv Jyoti Sr. Sec. School
-** Higher Secondary 12th CBSE Board **
+**Higher Secondary 12th CBSE Board**
 [2012 - 2013] Passed with 84.40 %
 
 
 ### Anand Niketan Satellite School
-** Senior Secondary 10th ICSE Board **
+**Senior Secondary 10th ICSE Board**
 [2010 - 2011] Passed with 91.2 %
 
 
