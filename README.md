@@ -1,5 +1,5 @@
-<div width="120" padding="10" height="200"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> </div>
-<span style="color:#BAE759;"> About</span>
+<div width="120" padding="10" height="400"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> </div>
+<span style="color:#BAE759;"> <h2>About</h2></span>
 
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 
