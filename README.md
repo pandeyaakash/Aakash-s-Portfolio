@@ -170,7 +170,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 ## Projects Undertaken
 
 
-#### National Robotics Championship
+### National Robotics Championship
 <div class="row">
 
     <div class="collg"> 
@@ -185,7 +185,7 @@ programming of arduino board and interfacing of web camera and LED's.
 </div>
 </div>
 
-#### Employability Skills Development
+### Employability Skills Development
 <div class="row">
 
     <div class="collg"> 
@@ -202,7 +202,7 @@ studied.
 </div>
 </div>
 
-#### E-Commerce Web Development
+### E-Commerce Web Development
 <div class="row">
 
     <div class="collg"> 
@@ -218,7 +218,7 @@ connectivity. These modules were then Implemented using XAMPP as a local host se
 </div>
 </div>
 
-#### Mini Project - Society Master
+### Mini Project - Society Master
 <div class="row">
 
     <div class="collg"> 
@@ -237,7 +237,7 @@ programing in HTML, PHP, CSS, JavaScript, MongoDB.
 </div>
 </div>
 
-#### Internship – Build the World
+### Internship – Build the World
 <div class="row">
 
     <div class="collg"> 
@@ -257,7 +257,7 @@ Native.
 </div>
 </div>
 
-#### Equity Forecast
+### Equity Forecast
 <div class="row">
 
     <div class="collg"> 
@@ -271,7 +271,7 @@ learning(regression learning). Technologies used: Python,Quandl API(dataset),plo
 </div>
 </div>
 
-#### B.E Project - D-Bug
+### B.E Project - D-Bug
 <div class="row">
 
     <div class="collg"> 
@@ -290,7 +290,7 @@ pseudococcidae (mealybug) better.
 </div>
 </div>
 
-#### FTP HUB
+### FTP HUB
 <div class="row">
 
     <div class="collg"> 
@@ -305,7 +305,7 @@ It is a file transfer and data manipulation system, by which we can copy files, 
 </div>
 </div>
 
-#### Drone Tech.
+### Drone Tech.
 
 <div class="row">
 
@@ -333,20 +333,23 @@ Built a FPV drone from stratch to undertand working ariel vehicle and evaluate i
     </div>
     <div class="col">
 
-<h4> Laureate Award - Q3 2018 </h4>
+<h3> Laureate Award - Q3 2018 </h3>
 
 For a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was involved in Futures connect and Focus UI areas and it is considered as one of the most critical milestones for the business.
-
-<h4> PTS Table Tennis Champion 2019 </h4>
+<br>
+<br>
+<h3> PTS Table Tennis Champion 2019 </h3>
 
 Winner of the PTS Inter-Department Table Tennis competition.
-
-<h4> FIS InnovateIN48 2019 Finalist </h4>
+<br>
+<br>
+<h3> FIS InnovateIN48 2019 Finalist </h3>
 
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them.
 I was part of the team PTS Commandos who were top 14 finalists competing against 3500 teams over the globe. We were invited to Milan, Italy for the final faceoff.
-
-<h4> FIS InnovateIN48 2020 App Sec Round Runners Up </h4>
+<br>
+<br>
+<h3> FIS InnovateIN48 2020 App Sec Round Runners Up </h3>
 
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them. FIS being a fin-tech organization, aims at providing maximum security for its clients.
 Team PTS Commandos bagged the runners up prize for this year's hackathon in the Application Security Round. We were able to identify the assets and trust boundaries correctly and took relevant security measures for the same.
