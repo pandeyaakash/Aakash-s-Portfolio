@@ -69,35 +69,51 @@ Specializing in the use of text, predictive, and statistical analysis using nich
     </div>
     <div class="col">
 
+
 <details>
-	<summary> <h3> FIS Global Solutions Pvt. Ltd. </h3> </summary>
-<h2> Software Engineer </h2>
-August 2018 - Present (2 years 3 months)
-Pune, India
+	<h3>
+		<summary>  FIS Global Solutions Pvt. Ltd.  </summary>
+	</h3>
+		<h2> Software Engineer </h2>
+			August 2018 - Present (2 years 3 months)
+			Pune, India
 
-<h2> Product Development Associate </h2>
-August 2018 - August 2019 (1 year 1 month)
-Pune, India
-<br>
+		<h2> Product Development Associate </h2>
+			August 2018 - August 2019 (1 year 1 month)
+			Pune, India
+	<br>
 </details>
-<br>
-<details> <summary> <h3> BYJUS - Think and Learn Pvt. Ltd. </summary>
 
-<h2> Business Development Associate </h2>
-June 2018 - August 2018 (2 months)
-Bangalore, India
 <br>
+
+<details> 
+	<h3>
+		<summary>  BYJUS - Think and Learn Pvt. Ltd. </summary>
+	</h3>
+
+	<h2> Business Development Associate </h2>
+		June 2018 - August 2018 (2 months)
+		Bangalore, India
+	<br>
 </details>
-<br>
-<details> <summary> <h3> Build The World </h3> </summary>
 
-<h3> Web development intern </h3>
-June 2017 - October 2017 (5 months)
-Hyderabad, India
 <br>
+
+<details> 
+	<h3> 
+		<summary>  Build The World </summary> 
+	</h3> 
+
+	<h2> Web development intern </h2>
+		June 2017 - October 2017 (5 months)
+		Hyderabad, India
+	<br>
 </details>
 </br>
 </div>
+</div>
+
+
 ---
 
 
