@@ -10,13 +10,14 @@
 .collg {
   width: 120;
   height: 120;
+  padding-right: 10;
 }
 </style>
 
 ## About
 <div class="row">
     <div class="collg"> 
-        <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> 
+        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-01.png" /> 
     </div>
 
     <div class="col">
@@ -34,7 +35,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <div class="row">
 
     <div class="collg"> 
-        <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> 
+        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-02.png" /> 
     </div>
     <div class="col">
 <h3> Maharashtra Institute of Technology </h3>
