@@ -26,6 +26,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 ## Education
 
+<div class="row"> 
 ### Maharashtra Institute of Technology
 **Bachelor's of Engineering (Information Technology)**
 [2014 - 2018] Passed with Distinction
@@ -40,7 +41,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 **Senior Secondary 10th ICSE Board**
 [2010 - 2011] Passed with 91.2 %
 
-
+</div>
 ---
 
 
