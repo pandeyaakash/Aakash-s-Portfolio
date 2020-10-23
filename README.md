@@ -157,7 +157,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <li> SQL </li>
 
 <li> AngularJS </li>
-
+</ul>
 </div>
 </div>
 ---
