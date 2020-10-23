@@ -5,6 +5,7 @@
 
 .col {
   flex: 1; /* additionally, equal width */
+  padding-left:10;
 }
 
 .collg {
@@ -17,7 +18,7 @@
 ## About
 <div class="row">
     <div class="collg"> 
-        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-01.png" /> 
+        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-01.png?raw=true" /> 
     </div>
 
     <div class="col">
@@ -35,7 +36,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <div class="row">
 
     <div class="collg"> 
-        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-02.png" /> 
+        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-02.png?raw=true" /> 
     </div>
     <div class="col">
 <h3> Maharashtra Institute of Technology </h3>
