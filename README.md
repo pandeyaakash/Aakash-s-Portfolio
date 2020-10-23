@@ -1,21 +1,22 @@
 <style>
-  .row {
-  display: flex; /* equal height of the children */
+.container {
+    overflow: hidden;
 }
-
-.col {
-  flex: 1; /* additionally, equal width */
-  
-  padding: 1em;
+.column {
+    float: left;
+    margin: 20px;
+    background-color: grey;
+    padding-bottom: 100%;
+    margin-bottom: -100%;
 }
 </style>
 
 ## About
 
-<div class="row"> 
-<div class="col"> <div width="120" padding-right="10" height="100"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> </div>
+<div class="container">
+<div class="column"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> </div>
 
-<div class="col">
+<div class="column">
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 
 Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
@@ -26,7 +27,6 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 ## Education
 
-<div class="row"> 
 ### Maharashtra Institute of Technology
 **Bachelor's of Engineering (Information Technology)**
 [2014 - 2018] Passed with Distinction
@@ -41,7 +41,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 **Senior Secondary 10th ICSE Board**
 [2010 - 2011] Passed with 91.2 %
 
-</div>
+
 ---
 
 
