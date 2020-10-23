@@ -1,4 +1,5 @@
-.row {
+<style>
+  .row {
   display: flex; /* equal height of the children */
 }
 
@@ -7,10 +8,12 @@
   
   padding: 1em;
 }
+</style>
 
 ## About
+
 <div class="row"> 
-            <div class="box"><div width="120" padding-right="10" height="100"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> </div>
+<div class="col"> <div width="120" padding-right="10" height="100"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> </div>
 
 <div class="col">
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
