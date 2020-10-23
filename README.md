@@ -295,11 +295,11 @@ necessary for the platform.
     <div class="col">
 <span style="font-style:italic;font-size:15px;">September 2016 – December 2016</span>
 <br>
-The team project led by me consisted of three types of login systems which have limited access
+This team project was led by me consisted of RBAC system comprising of three types of login systems which have limited access
 for the chairman, the treasures and the residents. The chairman can add notices, resolve
 complaints and add new residents to the society database. Whereas, the treasurer could only
-maintain the dues of the society and residents of the society can add complaints, view the
-pictures of the society events and check the pending dues if any. The project involved
+maintain the dues of the society and residents of the society, add complaints, view the
+pictures of the society events and check the pending dues. The project involved
 programing in HTML, PHP, CSS, JavaScript, MongoDB.
 <br>
 <br>
@@ -316,9 +316,9 @@ programing in HTML, PHP, CSS, JavaScript, MongoDB.
     <div class="col">
 <span style="font-style:italic;font-size:15px;">July 2016 – August 2016</span>
 <br>
-A workshop about web development for an e-commerce website enabled one to learn about
-Data handling the Data with SQL and architecture design along with front-end and back-end
-connectivity. These modules were then Implemented using XAMPP as a local host server.
+A workshop about web development for an e-commerce website enabled me to learn about
+Databse dezign using SQL DB ,architecture design of web applications along with front-end and back-end
+connectivity. This project was developed using LAMP stack.
 <br>
 <br>
 <br>
@@ -336,9 +336,8 @@ connectivity. These modules were then Implemented using XAMPP as a local host se
 <br>
 
 The course involved working with R Language and Oracle Database to handle Data. Advanced
-algorithms like K-means clustering, Linear Regression, and Map-Reduce were studied. Oracle,
-SQL and MongoDB databases along with implementation of triggers, pl/sql queries were
-studied.
+algorithms like K-means clustering, Linear Regression and Map-Reduce were studied. It also involved hands on with Oracle,
+SQL and MongoDB databases focusing on implementation of triggers and pl/sql queries.
 <br>
 <br>
 <br>
@@ -354,7 +353,7 @@ studied.
 
 <span style="font-style:italic;font-size:15px;">June 2015</span>
 <br>
-Development of a mini robot that can make movements according to the analyzed hand gestures. This project involved
+Development of a mini robot that could make movements according to the operator's hand gestures. This project involved
 programming of arduino board, related electronics and interfacing of web camera and LED's.
 <br>
 <br>
@@ -376,7 +375,7 @@ programming of arduino board, related electronics and interfacing of web camera 
 
 <h3> FIS InnovateIN48 2020 Runners Up </h3>
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them. FIS being a fin-tech organization, aims at providing maximum security for its clients.
-Team PTS Commandos bagged the runners up prize for this year's hackathon in the Application Security Round. We were able to identify the assets and trust boundaries correctly and took relevant security measures for the same.
+Team PTS Commandos bagged the runner up prize for the hackathon's Application Security Round. We were able to identify the assets and trust boundaries correctly and took relevant security measures for the same.
 <br>
 <br>
 <br>
