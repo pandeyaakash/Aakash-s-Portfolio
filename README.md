@@ -194,7 +194,7 @@ The course involved working with R Language and Oracle Database to handle Data. 
 algorithms like K-means clustering, Linear Regression, and Map-Reduce were studied. Oracle,
 SQL and MongoDB databases along with implementation of triggers, pl/sql queries were
 studied.
-<div>
+</div>
 </div>
 
 #### E-Commerce Web Development
