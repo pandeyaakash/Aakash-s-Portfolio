@@ -11,7 +11,8 @@
 .collg {
   width: 120;
   height: 120;
-  padding-top: -20;
+  margin:0;
+  padding:0;
 }
 </style>
 
@@ -85,10 +86,10 @@ Passed with 91.2 %
 	
 		<br>
 		<span style="font-weight:bold"> Software Engineer </span>
+		<br>
 			<span style="font-style:italic;font-size:15px;">August 2018 - Present (2 years 3 months)</span>
 			<br>
 			<span style="color:blue;font-size:15px;">Pune, India</span>
-		<br>
 		<br>
 		<br>
 		<span style="font-weight:bold">  Product Development Associate </span>
@@ -105,6 +106,7 @@ Passed with 91.2 %
 	<br>
 
 	<span style="font-weight:bold">  Business Development Associate </span>
+	<br>
 		<span style="font-style:italic;font-size:15px;">June 2018 - August 2018 (2 months) </span>
 		<br>
 		<span style="color:blue;font-size:15px;">Bangalore, India</span>
@@ -117,6 +119,7 @@ Passed with 91.2 %
 
 		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> 
 	<span style="font-weight:bold">  Web Development Intern </span>
+		<br>
 		<span style="font-style:italic;font-size:15px;">June 2017 - October 2017 (5 months)</span>
 		<br>
 		<span style="color:blue;font-size:15px;">Hyderabad, India</span>
