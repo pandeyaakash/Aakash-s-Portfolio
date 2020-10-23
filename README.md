@@ -22,8 +22,8 @@
     </div>
 
     <div class="col">
-An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
-Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
+An innovative developer with industry experience in building web and desktop applications with ReactJs, Angular, Python, Java, C#.
+Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate complex business scenarios.
     </div>
 </div>
 <br>
@@ -195,7 +195,7 @@ Passed with 91.2 %
 
 <span style="font-style:italic;font-size:15px;">June 2020 – September 2020</span>
 <br>
-Built a FPV drone from stratch to undertand working ariel vehicle and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural implementation etc.
+Built a FPV drone from scratch to undertand the working aerial vehicles and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural advancements, surveillance systems etc.
 <br>
 <br>
 <br>
@@ -232,10 +232,10 @@ It is a file transfer and data manipulation system, by which we can copy files, 
     <div class="col">
 <span style="font-style:italic;font-size:15px;">June 2017 - May 2018</span>
 <br>
-This project is developed taking in consideration the problems faced by Indian Grapevine
+The final year Engineering project led by me along with 3 other members. This project is developed taking in consideration the problems faced by Indian Grapevine
 famers by a disease called “mealybug”, a group of 4 including me as leader. A mobile
-application and a client server model is developed to recognize this disease using tensorflow
-libraries and image processing for this purpose. We have used MobileNet as our machine
+application and a client server model was developed to recognize this disease using tensorflow
+libraries and image processing. We used the infamous MobileNetV2 as our machine
 learning model and retrained it on the images we have acquired ourselves. We even worked
 with ICARG(Indian Council of Agricultural Research Grapvenes) to understand the
 pseudococcidae (mealybug) better.
@@ -272,14 +272,14 @@ learning(regression learning). Technologies used: Python,Quandl API(dataset),plo
     <div class="col">
 <span style="font-style:italic;font-size:15px;">July 2017 - September 2017</span>
 <br>
-This technical internship involves development of web based platform for innovators, initiators
-and volunteers to come together and organize well-managed campaigns The development of
+This technical internship involved development of web based platform for innovators, initiators
+and volunteers to come together and organize well-managed campaigns. The development of
 the platform consisted of ReactJs for the front-end, Redux as middle-layer and NodeJs under
-FeatherJS framework for the back-end. This internship has helped me to develop logic for
+FeatherJS framework for back-end. Testing and debugging of a mobile based platform using React
+Native was also part of the development proccess. This internship helped me to develop logic for
 handling a real-time interactive platform thus evolving my skills to code in the above
-mentioned STACK. My knowledge of MongoDB has also helped me to design schemas
-necessary for this platform. Testing and debugging of a mobile based platform using React
-Native.
+mentioned STACK. My knowledge of MongoDB also helped me design schemas
+necessary for the platform. 
 <br>
 <br>
 <br>
