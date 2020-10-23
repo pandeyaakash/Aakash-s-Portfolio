@@ -8,7 +8,6 @@
 }
 
 .collg {
-  padding: 1em;
   width: 120;
   height: 120;
 }
@@ -32,6 +31,12 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 ## Education
 
+<div class="row">
+
+    <div class="collg"> 
+        <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> 
+    </div>
+    <div class="col">
 ### Maharashtra Institute of Technology
 **Bachelor's of Engineering (Information Technology)**
 [2014 - 2018] Passed with Distinction
@@ -45,7 +50,9 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 ### Anand Niketan Satellite School
 **Senior Secondary 10th ICSE Board**
 [2010 - 2011] Passed with 91.2 %
+</div>
 
+</div>
 
 ---
 
