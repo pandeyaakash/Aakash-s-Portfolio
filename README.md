@@ -1,4 +1,5 @@
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> ## About
+<div width="120" padding="10" height="200"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> </div>
+## About
 
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 
