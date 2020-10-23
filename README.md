@@ -5,13 +5,12 @@
 
 .col {
   flex: 1; /* additionally, equal width */
-  padding-left:10;
+  margin-left:10;
 }
 
 .collg {
   width: 120;
   height: 120;
-  padding-right: 10;
 }
 </style>
 
@@ -42,15 +41,17 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <h3> Maharashtra Institute of Technology </h3>
 <span style="font-weight: bold;">Bachelor's of Engineering (Information Technology)</span>
 [2014 - 2018] Passed with Distinction
-
+<br>
 
 <h3> Shiv Jyoti Sr. Sec. School </h3>
 <span style="font-weight: bold;">Higher Secondary 12th CBSE Board</span>
+<br>
 [2012 - 2013] Passed with <span style="color:red;">84.4%</span>
-
+<br>
 
 <h3> Anand Niketan Satellite School </h3>
 <span style="font-weight: bold;">Senior Secondary 10th ICSE Board</span>
+<br>
 [2010 - 2011] Passed with 91.2 %
 </div>
 
@@ -61,25 +62,34 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 ## Experience
 
-### FIS Global Solutions Pvt. Ltd.
+<div class="row">
 
-#### Software Engineer
+    <div class="collg"> 
+        <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-03.png?raw=true" /> 
+    </div>
+    <div class="col">
+<h3> FIS Global Solutions Pvt. Ltd. </h3>
+<details>
+	<summary> Present - Software Engineer </summary>
+<h3> Software Engineer </h3>
 August 2018 - Present (2 years 3 months)
-Pune Area, India
+Pune, India
 
-#### Product Development Associate
+<h3> Product Development Associate </h3>
 August 2018 - August 2019 (1 year 1 month)
-Pune Area, India
+Pune, India
+</details>
+<h3> BYJUS - Think and Learn Pvt. Ltd.
 
-### BYJUS - Think and Learn Pvt. Ltd.
-
-#### Business Development Associate
+<h3> Business Development Associate </h3>
 June 2018 - August 2018 (2 months)
+Bangalore, India
 
-### Build The World
+<h3> Build The World </h3>
 
-#### Web development intern
+<h3> Web development intern </h3>
 June 2017 - October 2017 (5 months)
+Hyderabad, India
 
 
 
