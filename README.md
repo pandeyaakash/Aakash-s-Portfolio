@@ -117,7 +117,7 @@ Passed with 91.2 %
 
 <details> 
 
-		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> \
+		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> 
 		<br>
 	<span style="font-weight:bold">  Web Development Intern </span>
 		<br>
