@@ -396,7 +396,7 @@ Winner of the PTS Inter-Department Table Tennis competition.
 <br>
 
 <h3> Laureate Award - Q3 2018 </h3>
-For a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was involved in Futures connect and Focus UI areas and it is considered as one of the most critical milestones for the business.
+An award for a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was responsible for Futures connect application transition and it is considered as one of the most critical milestones for the business.
 
 </div>
 </div>
