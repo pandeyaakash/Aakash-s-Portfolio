@@ -8,7 +8,6 @@
 }
 
 .collg {
-  flex: 1; /* additionally, equal width */
   padding: 1em;
   width: 120;
   height: 120;
