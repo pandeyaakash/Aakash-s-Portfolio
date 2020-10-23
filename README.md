@@ -12,7 +12,7 @@
 .collg {
   width: 120;
   height: 120;
-  margin-top: -20;
+  padding-top: -20;
 }
 </style>
 
@@ -25,8 +25,8 @@
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
     </div>
-    
 </div>
+<br>
 
 ---
 
@@ -227,7 +227,7 @@ It is a file transfer and data manipulation system, by which we can copy files, 
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-12.png?raw=true" /> 
     </div>
     <div class="col">
-<span style="font-style:italic;font-size:15px;">[01/06/2018]-[31/05/2018]</span>
+<span style="font-style:italic;font-size:15px;">June 2017 - May 2018</span>
 <br>
 This project is developed taking in consideration the problems faced by Indian Grapevine
 famers by a disease called “mealybug”, a group of 4 including me as leader. A mobile
@@ -250,7 +250,7 @@ pseudococcidae (mealybug) better.
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-13.png?raw=true" /> 
     </div>
     <div class="col">
-<span style="font-style:italic;font-size:15px;">[01/06/2018]-[31/08/2018]</span>
+<span style="font-style:italic;font-size:15px;">June 2018 - August 2018</span>
 <br>
 The project involved prediction of stocks of ICICI Bank from year 2013-2017 using machine
 learning(regression learning). Technologies used: Python,Quandl API(dataset),plotly,mongodb.
@@ -267,7 +267,7 @@ learning(regression learning). Technologies used: Python,Quandl API(dataset),plo
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-15.png?raw=true" /> 
     </div>
     <div class="col">
-<span style="font-style:italic;font-size:15px;">[01/07/2017]-[30/09/2017]</span>
+<span style="font-style:italic;font-size:15px;">July 2017 - September 2017</span>
 <br>
 This technical internship involves development of web based platform for innovators, initiators
 and volunteers to come together and organize well-managed campaigns The development of
@@ -290,7 +290,7 @@ Native.
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-11.png?raw=true" /> 
     </div>
     <div class="col">
-<span style="font-style:italic;font-size:15px;">[26/09/2016] – [25/12/2016]</span>
+<span style="font-style:italic;font-size:15px;">September 2016 – December 2016</span>
 <br>
 The team project led by me consisted of three types of login systems which have limited access
 for the chairman, the treasures and the residents. The chairman can add notices, resolve
@@ -311,7 +311,7 @@ programing in HTML, PHP, CSS, JavaScript, MongoDB.
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-09.png?raw=true" /> 
     </div>
     <div class="col">
-<span style="font-style:italic;font-size:15px;">[30/07/2016] – [25/08/2016]</span>
+<span style="font-style:italic;font-size:15px;">July 2016 – August 2016</span>
 <br>
 A workshop about web development for an e-commerce website enabled one to learn about
 Data handling the Data with SQL and architecture design along with front-end and back-end
@@ -329,7 +329,7 @@ connectivity. These modules were then Implemented using XAMPP as a local host se
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-05.png?raw=true" /> 
     </div>
     <div class="col">
-<span style="font-style:italic;font-size:15px;">[30/06/2016] – [25/08/2016]</span>
+<span style="font-style:italic;font-size:15px;">June 2016 – August 2016</span>
 <br>
 
 The course involved working with R Language and Oracle Database to handle Data. Advanced
@@ -349,10 +349,10 @@ studied.
     </div>
     <div class="col">
 
-<span style="font-style:italic;font-size:15px;">[28/06/2015] – [30/06/2015]</span>
+<span style="font-style:italic;font-size:15px;">June 2015</span>
 <br>
-A robot was built that made movements according to the analyzed the gestures. This involved
-programming of arduino board and interfacing of web camera and LED's.
+Development of a mini robot that can make movements according to the analyzed hand gestures. This project involved
+programming of arduino board, related electronics and interfacing of web camera and LED's.
 <br>
 <br>
 <br>
@@ -377,12 +377,11 @@ For a tremendous success of the Horizon project i.e. bookkeeping system transiti
 <br>
 <br>
 <br>
-<br>
+
 
 <h3> PTS Table Tennis Champion 2019 </h3>
 
 Winner of the PTS Inter-Department Table Tennis competition.
-<br>
 <br>
 <br>
 <br>
@@ -394,7 +393,7 @@ I was part of the team PTS Commandos who were top 14 finalists competing against
 <br>
 <br>
 <br>
-<br>
+
 <h3> FIS InnovateIN48 2020 App Sec Round Runners Up </h3>
 
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them. FIS being a fin-tech organization, aims at providing maximum security for its clients.
