@@ -5,7 +5,6 @@
 
 .col {
   flex: 1; /* additionally, equal width */
-  
   margin-left:10;
 }
 
@@ -44,7 +43,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <br>
 Passed with Distinction
 <br>
-[2014 - 2018] 
+<span style="font-size:15px;">[2014 - 2018]</span> 
 <br>
 <br>
 <h3> Shiv Jyoti Sr. Sec. School </h3>
@@ -52,7 +51,7 @@ Passed with Distinction
 <br>
 Passed with 84.4%
 <br>
-[2012 - 2013] 
+<span style="font-size:15px;">[2012 - 2013] </span>
 <br>
 <br>
 <h3> Anand Niketan Satellite School </h3>
@@ -60,7 +59,7 @@ Passed with 84.4%
 <br>
 Passed with 91.2 %
 <br>
-[2010 - 2011] 
+<span style="font-size:15px;">[2010 - 2011]</span> 
 <br>
 <br>
 </div>
@@ -85,17 +84,17 @@ Passed with 91.2 %
 		<summary style="color:#BAE759; font-weight:bold">  FIS Global Solutions Pvt. Ltd.  </summary>
 	
 		<br>
-		<h2> Software Engineer </h2>
-			<span style="font-style:italic">August 2018 - Present (2 years 3 months)</span>
+		<span style="font-weight:bold"> Software Engineer </span>
+			<span style="font-style:italic;font-size:15px;">August 2018 - Present (2 years 3 months)</span>
 			<br>
-			<span style="color:blue;">Pune, India</span>
+			<span style="color:blue;font-size:15px;">Pune, India</span>
 		<br>
 		<br>
 		<br>
-		<h4> Product Development Associate </h4>
-			<span style="font-style:italic">August 2018 - August 2019 (1 year 1 month)</span>
+		<span style="font-weight:bold">  Product Development Associate </span>
+			<span style="font-style:italic;font-size:15px;">August 2018 - August 2019 (1 year 1 month)</span>
 			<br>
-			<span style="color:blue;">Pune, India</span>
+			<span style="color:blue;font-size:15px;">Pune, India</span>
 	<br>
 </details>
 
@@ -105,10 +104,10 @@ Passed with 91.2 %
 		<summary style="color:#BAE759; font-weight:bold">  BYJUS - Think and Learn Pvt. Ltd. </summary>
 	<br>
 
-	<h4> Business Development Associate </h4>
-		<span style="font-style:italic">June 2018 - August 2018 (2 months) </span>
+	<span style="font-weight:bold">  Business Development Associate </span>
+		<span style="font-style:italic;font-size:15px;">June 2018 - August 2018 (2 months) </span>
 		<br>
-		<span style="color:blue;">Bangalore, India</span>
+		<span style="color:blue;font-size:15px;">Bangalore, India</span>
 	<br>
 </details>
 
@@ -117,12 +116,10 @@ Passed with 91.2 %
 <details> 
 
 		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> 
- 
-
-	<h4> Web Development Intern </h4>
-		<span style="font-style:italic">June 2017 - October 2017 (5 months)</span>
+	<span style="font-weight:bold">  Web Development Intern </span>
+		<span style="font-style:italic;font-size:15px;">June 2017 - October 2017 (5 months)</span>
 		<br>
-		<span style="color:blue;">Hyderabad, India</span>
+		<span style="color:blue;font-size:15px;">Hyderabad, India</span>
 	<br>
 </details>
 
@@ -192,7 +189,7 @@ Passed with 91.2 %
     </div>
     <div class="col">
 
-<span style="font-style:italic;font-size:15px;">[21/06/2020] – [23/10/2020]</span>
+<span style="font-style:italic;font-size:15px;">June 2020 – September 2020</span>
 <br>
 Built a FPV drone from stratch to undertand working ariel vehicle and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural implementation etc.
 <br>
@@ -210,7 +207,7 @@ Built a FPV drone from stratch to undertand working ariel vehicle and evaluate i
     </div>
     <div class="col">
 
-<span style="font-style:italic;font-size:15px;">[06/05/2018] – [15/06/2019]</span>
+<span style="font-style:italic;font-size:15px;">May 2018 – June 2019</span>
 <br>
 It is a file transfer and data manipulation system, by which we can copy files, email a report, execute store procedures, and manipulate data with different business logic.
 <br>
@@ -371,33 +368,30 @@ programming of arduino board, related electronics and interfacing of web camera 
     </div>
     <div class="col">
 
-<h3> Laureate Award - Q3 2018 </h3>
-
-For a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was involved in Futures connect and Focus UI areas and it is considered as one of the most critical milestones for the business.
+<h3> FIS InnovateIN48 2020 Runners Up </h3>
+InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them. FIS being a fin-tech organization, aims at providing maximum security for its clients.
+Team PTS Commandos bagged the runners up prize for this year's hackathon in the Application Security Round. We were able to identify the assets and trust boundaries correctly and took relevant security measures for the same.
 <br>
 <br>
 <br>
 
-
-<h3> PTS Table Tennis Champion 2019 </h3>
-
-Winner of the PTS Inter-Department Table Tennis competition.
-<br>
-<br>
-<br>
 
 <h3> FIS InnovateIN48 2019 Finalist </h3>
-
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them.
 I was part of the team PTS Commandos who were top 14 finalists competing against 3500 teams over the globe. We were invited to Milan, Italy for the final faceoff.
 <br>
 <br>
 <br>
 
-<h3> FIS InnovateIN48 2020 App Sec Round Runners Up </h3>
 
-InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them. FIS being a fin-tech organization, aims at providing maximum security for its clients.
-Team PTS Commandos bagged the runners up prize for this year's hackathon in the Application Security Round. We were able to identify the assets and trust boundaries correctly and took relevant security measures for the same.
+<h3> PTS Table Tennis Champion 2019 </h3>
+Winner of the PTS Inter-Department Table Tennis competition.
+<br>
+<br>
+<br>
+
+<h3> Laureate Award - Q3 2018 </h3>
+For a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was involved in Futures connect and Focus UI areas and it is considered as one of the most critical milestones for the business.
 
 </div>
 </div>
