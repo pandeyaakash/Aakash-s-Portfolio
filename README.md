@@ -68,31 +68,36 @@ Specializing in the use of text, predictive, and statistical analysis using nich
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-03.png?raw=true" /> 
     </div>
     <div class="col">
-<h3> FIS Global Solutions Pvt. Ltd. </h3>
+
 <details>
-	<summary> Present - Software Engineer </summary>
-<h3> Software Engineer </h3>
+	<summary> <h3> FIS Global Solutions Pvt. Ltd. </h3> </summary>
+<h2> Software Engineer </h2>
 August 2018 - Present (2 years 3 months)
 Pune, India
 
-<h3> Product Development Associate </h3>
+<h2> Product Development Associate </h2>
 August 2018 - August 2019 (1 year 1 month)
 Pune, India
+<br>
 </details>
-<h3> BYJUS - Think and Learn Pvt. Ltd.
+<br>
+<details> <summary> <h3> BYJUS - Think and Learn Pvt. Ltd. </summary>
 
-<h3> Business Development Associate </h3>
+<h2> Business Development Associate </h2>
 June 2018 - August 2018 (2 months)
 Bangalore, India
-
-<h3> Build The World </h3>
+<br>
+</details>
+<br>
+<details> <summary> <h3> Build The World </h3> </summary>
 
 <h3> Web development intern </h3>
 June 2017 - October 2017 (5 months)
 Hyderabad, India
-
-
-
+<br>
+</details>
+</br>
+</div>
 ---
 
 
