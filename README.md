@@ -1,11 +1,23 @@
-<div width="120" padding="10" height="300"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> </div>
-<h2><span style="color:#BAE759;">About</span></h2>
+.row {
+  display: flex; /* equal height of the children */
+}
 
+.col {
+  flex: 1; /* additionally, equal width */
+  
+  padding: 1em;
+}
+
+## About
+<div class="row"> 
+            <div class="box"><div width="120" padding-right="10" height="100"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> </div>
+
+<div class="col">
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
 
 Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
-
-
+</div>
+</div>
 ---
 
 
