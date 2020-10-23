@@ -1,24 +1,33 @@
 <style>
-.container {
-    overflow: hidden;
+.row {
+  display: flex; /* equal height of the children */
 }
-.column {
-    float: left;
-    margin: 20px;
+
+.col {
+  flex: 1; /* additionally, equal width */
+}
+
+.collg {
+  flex: 1; /* additionally, equal width */
+  padding: 1em;
+  width: 120;
+  height: 120;
 }
 </style>
 
-## About
 
-<div class="container">
-<div class="column"> <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> </div>
+<div class="row">
+    <div class="collg"> 
+        <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> 
+    </div>
 
-<div class="column">
+    <div class="col">
 An innovative developer with industry experience building web and desktop applications with ReactJs, Angular, Python, Java, C#.
-
 Specializing in the use of text, predictive, and statistical analysis using niche technologies to improve the user experience and evaluate the business scenarios.
+    </div>
+    
 </div>
-</div>
+
 ---
 
 
