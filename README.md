@@ -71,9 +71,9 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 
 <details>
-	<h3>
-		<summary>  FIS Global Solutions Pvt. Ltd.  </summary>
-	</h3>
+	
+		<summary style="font-color:#BAE759; font-weight:bold">  FIS Global Solutions Pvt. Ltd.  </summary>
+	
 		<h2> Software Engineer </h2>
 			August 2018 - Present (2 years 3 months)
 			Pune, India
@@ -109,7 +109,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 		Hyderabad, India
 	<br>
 </details>
-</br>
+
 </div>
 </div>
 
