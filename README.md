@@ -74,12 +74,14 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 	
 		<summary style="color:#BAE759; font-weight:bold">  FIS Global Solutions Pvt. Ltd.  </summary>
 	
-		<h1> Software Engineer </h1>
+		<h4> Software Engineer </h4>
 			August 2018 - Present (2 years 3 months)
+			<br>
 			Pune, India
 
-		<h1> Product Development Associate </h1>
+		<h4> Product Development Associate </h4>
 			August 2018 - August 2019 (1 year 1 month)
+			<br>
 			Pune, India
 	<br>
 </details>
@@ -93,6 +95,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 	<h1> Business Development Associate </h1>
 		June 2018 - August 2018 (2 months)
+		<br>
 		Bangalore, India
 	<br>
 </details>
@@ -106,6 +109,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 
 	<h1> Web development intern </h1>
 		June 2017 - October 2017 (5 months)
+		<br>
 		Hyderabad, India
 	<br>
 </details>
@@ -175,7 +179,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
     <div class="col">
 
 <span style="font-style:italic;">[28/06/2015] – [30/06/2015]</span>
-
+<br>
 A robot was built that made movements according to the analyzed the gestures. This involved
 programming of arduino board and interfacing of web camera and LED's.
 </div>
@@ -189,6 +193,7 @@ programming of arduino board and interfacing of web camera and LED's.
     </div>
     <div class="col">
 <span style="font-style:italic;">[30/06/2016] – [25/08/2016]</span>
+<br>
 
 The course involved working with R Language and Oracle Database to handle Data. Advanced
 algorithms like K-means clustering, Linear Regression, and Map-Reduce were studied. Oracle,
@@ -205,7 +210,7 @@ studied.
     </div>
     <div class="col">
 <span style="font-style:italic;">[30/07/2016] – [25/08/2016]</span>
-
+<br>
 A workshop about web development for an e-commerce website enabled one to learn about
 Data handling the Data with SQL and architecture design along with front-end and back-end
 connectivity. These modules were then Implemented using XAMPP as a local host server.
@@ -221,7 +226,7 @@ connectivity. These modules were then Implemented using XAMPP as a local host se
     </div>
     <div class="col">
 <span style="font-style:italic;">[26/09/2016] – [25/12/2016]</span>
-
+<br>
 The team project led by me consisted of three types of login systems which have limited access
 for the chairman, the treasures and the residents. The chairman can add notices, resolve
 complaints and add new residents to the society database. Whereas, the treasurer could only
@@ -240,7 +245,7 @@ programing in HTML, PHP, CSS, JavaScript, MongoDB.
     </div>
     <div class="col">
 <span style="font-style:italic;">[01/07/2017]-[30/09/2017]</span>
-
+<br>
 This technical internship involves development of web based platform for innovators, initiators
 and volunteers to come together and organize well-managed campaigns The development of
 the platform consisted of ReactJs for the front-end, Redux as middle-layer and NodeJs under
@@ -260,7 +265,7 @@ Native.
     </div>
     <div class="col">
 <span style="font-style:italic;">[01/06/2018]-[31/08/2018]</span>
-
+<br>
 The project involved prediction of stocks of ICICI Bank from year 2013-2017 using machine
 learning(regression learning). Technologies used: Python,Quandl API(dataset),plotly,mongodb.
 </div>
@@ -274,7 +279,7 @@ learning(regression learning). Technologies used: Python,Quandl API(dataset),plo
     </div>
     <div class="col">
 <span style="font-style:italic;">[01/06/2018]-[31/05/2018]</span>
-
+<br>
 This project is developed taking in consideration the problems faced by Indian Grapevine
 famers by a disease called “mealybug”, a group of 4 including me as leader. A mobile
 application and a client server model is developed to recognize this disease using tensorflow
@@ -294,7 +299,7 @@ pseudococcidae (mealybug) better.
     <div class="col">
 
 <span style="font-style:italic;">[06/05/2018] – [15/06/2019]</span>
-
+<br>
 It is a file transfer and data manipulation system, by which we can copy files, email a report, execute store procedures, and manipulate data with different business logic.
 
 </div>
@@ -310,7 +315,7 @@ It is a file transfer and data manipulation system, by which we can copy files, 
     <div class="col">
 
 <span style="font-style:italic;">[21/06/2020] – [23/10/2020]</span>
-
+<br>
 Built a FPV drone from stratch to undertand working ariel vehicle and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural implementation etc.
 
 </div>
@@ -328,20 +333,20 @@ Built a FPV drone from stratch to undertand working ariel vehicle and evaluate i
     </div>
     <div class="col">
 
-#### Laureate Award - Q3 2018
+<h4> Laureate Award - Q3 2018 </h4>
 
 For a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was involved in Futures connect and Focus UI areas and it is considered as one of the most critical milestones for the business.
 
-#### PTS Table Tennis Champion 2019
+<h4> PTS Table Tennis Champion 2019 </h4>
 
 Winner of the PTS Inter-Department Table Tennis competition.
 
-#### FIS InnovateIN48 2019 Finalist
+<h4> FIS InnovateIN48 2019 Finalist </h4>
 
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them.
 I was part of the team PTS Commandos who were top 14 finalists competing against 3500 teams over the globe. We were invited to Milan, Italy for the final faceoff.
 
-#### FIS InnovateIN48 2020 App Sec Round Runners Up 
+<h4> FIS InnovateIN48 2020 App Sec Round Runners Up </h4>
 
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them. FIS being a fin-tech organization, aims at providing maximum security for its clients.
 Team PTS Commandos bagged the runners up prize for this year's hackathon in the Application Security Round. We were able to identify the assets and trust boundaries correctly and took relevant security measures for the same.
