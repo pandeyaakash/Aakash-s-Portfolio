@@ -39,7 +39,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-02.png?raw=true" /> 
     </div>
     <div class="col">
-<h3> Maharashtra Institute of Technology </h3>
+<h3> Maharashtra Institute of Technology, Pune </h3>
 <span style="font-weight: bold;">Bachelor's of Engineering (Information Technology)</span>
 <br>
 Passed with Distinction
@@ -47,7 +47,7 @@ Passed with Distinction
 <span style="font-size:15px;">[2014 - 2018]</span> 
 <br>
 <br>
-<h3> Shiv Jyoti Sr. Sec. School </h3>
+<h3> Shiv Jyoti Sr. Sec. School, Kota </h3>
 <span style="font-weight: bold;">Higher Secondary 12th CBSE Board</span>
 <br>
 Passed with 84.4%
@@ -55,7 +55,7 @@ Passed with 84.4%
 <span style="font-size:15px;">[2012 - 2013] </span>
 <br>
 <br>
-<h3> Anand Niketan Satellite School </h3>
+<h3> Anand Niketan Satellite School, Ahmedabad </h3>
 <span style="font-weight: bold;">Senior Secondary 10th ICSE Board</span>
 <br>
 Passed with 91.2 %
@@ -117,7 +117,8 @@ Passed with 91.2 %
 
 <details> 
 
-		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> 
+		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> \
+		<br>
 	<span style="font-weight:bold">  Web Development Intern </span>
 		<br>
 		<span style="font-style:italic;font-size:15px;">June 2017 - October 2017 (5 months)</span>
@@ -225,6 +226,8 @@ It is a file transfer and data manipulation system, by which we can copy files, 
 
     <div class="collg"> 
         <img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-12.png?raw=true" /> 
+		<br>
+		<img align="left" width="100" height="100" src="https://github.com/pandeyaakash/Aakash-s-Portfolio/blob/portfolio/images/symbols-10.png?raw=true" /> 
     </div>
     <div class="col">
 <span style="font-style:italic;font-size:15px;">June 2017 - May 2018</span>
