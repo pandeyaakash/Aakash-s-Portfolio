@@ -37,18 +37,18 @@ Specializing in the use of text, predictive, and statistical analysis using nich
         <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100" /> 
     </div>
     <div class="col">
-### Maharashtra Institute of Technology
-**Bachelor's of Engineering (Information Technology)**
+<h3> Maharashtra Institute of Technology </h3>
+<span style="font-weight: bold;">Bachelor's of Engineering (Information Technology)</span>
 [2014 - 2018] Passed with Distinction
 
 
-### Shiv Jyoti Sr. Sec. School
-**Higher Secondary 12th CBSE Board**
+<h3> Shiv Jyoti Sr. Sec. School </h3>
+<span style="font-weight: bold;">Higher Secondary 12th CBSE Board</span>
 [2012 - 2013] Passed with <span style="color:red;">84.4%</span>
 
 
-### Anand Niketan Satellite School
-**Senior Secondary 10th ICSE Board**
+<h3> Anand Niketan Satellite School </h3>
+<span style="font-weight: bold;">Senior Secondary 10th ICSE Board</span>
 [2010 - 2011] Passed with 91.2 %
 </div>
 
