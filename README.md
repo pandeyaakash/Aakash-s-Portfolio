@@ -5,6 +5,7 @@
 
 .col {
   flex: 1; /* additionally, equal width */
+  margin-top: -20;
   margin-left:10;
 }
 
@@ -40,19 +41,25 @@ Specializing in the use of text, predictive, and statistical analysis using nich
     <div class="col">
 <h3> Maharashtra Institute of Technology </h3>
 <span style="font-weight: bold;">Bachelor's of Engineering (Information Technology)</span>
+<br>
 [2014 - 2018] Passed with Distinction
 <br>
-
+<br>
+<br>
 <h3> Shiv Jyoti Sr. Sec. School </h3>
 <span style="font-weight: bold;">Higher Secondary 12th CBSE Board</span>
 <br>
-[2012 - 2013] Passed with <span style="color:red;">84.4%</span>
+[2012 - 2013] Passed with 84.4%
 <br>
-
+<br>
+<br>
 <h3> Anand Niketan Satellite School </h3>
 <span style="font-weight: bold;">Senior Secondary 10th ICSE Board</span>
 <br>
 [2010 - 2011] Passed with 91.2 %
+<br>
+<br>
+<br>
 </div>
 
 </div>
@@ -78,7 +85,9 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 			August 2018 - Present (2 years 3 months)
 			<br>
 			Pune, India
-
+		<br>
+		<br>
+		<br>
 		<h4> Product Development Associate </h4>
 			August 2018 - August 2019 (1 year 1 month)
 			<br>
@@ -93,7 +102,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 		<summary style="color:#BAE759; font-weight:bold">  BYJUS - Think and Learn Pvt. Ltd. </summary>
 	
 
-	<h1> Business Development Associate </h1>
+	<h4> Business Development Associate </h4>
 		June 2018 - August 2018 (2 months)
 		<br>
 		Bangalore, India
@@ -107,7 +116,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 		<summary style="color:#BAE759; font-weight:bold">  Build The World </summary> 
  
 
-	<h1> Web development intern </h1>
+	<h1> Web Development Intern </h1>
 		June 2017 - October 2017 (5 months)
 		<br>
 		Hyderabad, India
@@ -182,6 +191,9 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <br>
 A robot was built that made movements according to the analyzed the gestures. This involved
 programming of arduino board and interfacing of web camera and LED's.
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -199,6 +211,9 @@ The course involved working with R Language and Oracle Database to handle Data. 
 algorithms like K-means clustering, Linear Regression, and Map-Reduce were studied. Oracle,
 SQL and MongoDB databases along with implementation of triggers, pl/sql queries were
 studied.
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -214,7 +229,9 @@ studied.
 A workshop about web development for an e-commerce website enabled one to learn about
 Data handling the Data with SQL and architecture design along with front-end and back-end
 connectivity. These modules were then Implemented using XAMPP as a local host server.
-
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -233,7 +250,9 @@ complaints and add new residents to the society database. Whereas, the treasurer
 maintain the dues of the society and residents of the society can add complaints, view the
 pictures of the society events and check the pending dues if any. The project involved
 programing in HTML, PHP, CSS, JavaScript, MongoDB.
-
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -254,6 +273,9 @@ handling a real-time interactive platform thus evolving my skills to code in the
 mentioned STACK. My knowledge of MongoDB has also helped me to design schemas
 necessary for this platform. Testing and debugging of a mobile based platform using React
 Native.
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -268,6 +290,9 @@ Native.
 <br>
 The project involved prediction of stocks of ICICI Bank from year 2013-2017 using machine
 learning(regression learning). Technologies used: Python,Quandl API(dataset),plotly,mongodb.
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -287,6 +312,9 @@ libraries and image processing for this purpose. We have used MobileNet as our m
 learning model and retrained it on the images we have acquired ourselves. We even worked
 with ICARG(Indian Council of Agricultural Research Grapvenes) to understand the
 pseudococcidae (mealybug) better.
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -301,7 +329,9 @@ pseudococcidae (mealybug) better.
 <span style="font-style:italic;">[06/05/2018] – [15/06/2019]</span>
 <br>
 It is a file transfer and data manipulation system, by which we can copy files, email a report, execute store procedures, and manipulate data with different business logic.
-
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -317,7 +347,9 @@ It is a file transfer and data manipulation system, by which we can copy files, 
 <span style="font-style:italic;">[21/06/2020] – [23/10/2020]</span>
 <br>
 Built a FPV drone from stratch to undertand working ariel vehicle and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural implementation etc.
-
+<br>
+<br>
+<br>
 </div>
 </div>
 
@@ -338,15 +370,24 @@ Built a FPV drone from stratch to undertand working ariel vehicle and evaluate i
 For a tremendous success of the Horizon project i.e. bookkeeping system transition from RANsys to GMI system. I was involved in Futures connect and Focus UI areas and it is considered as one of the most critical milestones for the business.
 <br>
 <br>
+<br>
+<br>
+<br>
 <h3> PTS Table Tennis Champion 2019 </h3>
 
 Winner of the PTS Inter-Department Table Tennis competition.
+<br>
+<br>
+<br>
 <br>
 <br>
 <h3> FIS InnovateIN48 2019 Finalist </h3>
 
 InnovateIN48 is an annual hackathon event of FIS which provides a great platform for showcasing innovative ideas and skills to develop them.
 I was part of the team PTS Commandos who were top 14 finalists competing against 3500 teams over the globe. We were invited to Milan, Italy for the final faceoff.
+<br>
+<br>
+<br>
 <br>
 <br>
 <h3> FIS InnovateIN48 2020 App Sec Round Runners Up </h3>
