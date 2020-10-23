@@ -5,9 +5,6 @@
 .column {
     float: left;
     margin: 20px;
-    background-color: grey;
-    padding-bottom: 100%;
-    margin-bottom: -100%;
 }
 </style>
 
