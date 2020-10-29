@@ -143,21 +143,14 @@ Passed with 91.2 %
     </div>
     <div class="col">
 <ul>
-<li> Leadership </li>
-
-<li> Microsoft Word </li>
-
-<li> Microsoft PowerPoint </li>
-
-<li> Oracle Database </li>
-
-<li> MySQL </li>
-
-<li> Python </li>
 
 <li> C++ </li>
 
 <li> C </li>
+
+<li> Java </li>
+
+<li> Python </li>
 
 <li> HTML </li>
 
@@ -165,15 +158,20 @@ Passed with 91.2 %
 
 <li> PHP </li>
 
-<li> Node.js </li>
+<li> NodeJs </li>
 
-<li> React.js </li>
+<li> Angular </li>
 
-<li> Java </li>
+<li> ReactJs </li>
 
-<li> SQL </li>
+<li> Xamarin </li>
 
-<li> AngularJS </li>
+<li> Oracle DB </li>
+
+<li> MySQL </li>
+
+<li> MongoDB </li>
+
 </ul>
 </div>
 </div>
