@@ -193,7 +193,7 @@ Passed with 91.2 %
 
 <span style="font-style:italic;font-size:15px;">June 2020 – September 2020</span>
 <br>
-Built a FPV drone from scratch to undertand the working aerial vehicles and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural advancements, surveillance systems etc.
+Built a FPV drone from scratch to understand the working aerial vehicles and evaluate its implementation to solve real life problem such as efficient delivery systems, argricultural advancements, surveillance systems etc.
 <br>
 <br>
 <br>
