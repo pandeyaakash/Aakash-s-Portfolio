@@ -109,7 +109,7 @@ Graduated with 91.2 %
 	<br>
 		<span style="font-style:italic;font-size:15px;">June 2018 - August 2018 (2 months) </span>
 		<br>
-		<span style="color:blue;font-size:15px;">Bangalore, India</span>
+		<span style="color:#39FF14;font-size:15px;">Bangalore, India</span>
 	<br>
 </details>
 
@@ -123,7 +123,7 @@ Graduated with 91.2 %
 		<br>
 		<span style="font-style:italic;font-size:15px;">June 2017 - October 2017 (5 months)</span>
 		<br>
-		<span style="color:blue;font-size:15px;">Hyderabad, India</span>
+		<span style="color:#39FF14;font-size:15px;">Hyderabad, India</span>
 	<br>
 </details>
 
