@@ -42,7 +42,7 @@ Specializing in the use of text, predictive, and statistical analysis using nich
 <h3> Maharashtra Institute of Technology, Pune </h3>
 <span style="font-weight: bold;">Bachelor's of Engineering (Information Technology)</span>
 <br>
-Passed with Distinction
+Graduated with Distinction
 <br>
 <span style="font-size:15px;">[2014 - 2018]</span> 
 <br>
@@ -50,7 +50,7 @@ Passed with Distinction
 <h3> Shiv Jyoti Sr. Sec. School, Kota </h3>
 <span style="font-weight: bold;">Higher Secondary 12th CBSE Board</span>
 <br>
-Passed with 84.4%
+Graduated with 84.4%
 <br>
 <span style="font-size:15px;">[2012 - 2013] </span>
 <br>
@@ -58,7 +58,7 @@ Passed with 84.4%
 <h3> Anand Niketan Satellite School, Ahmedabad </h3>
 <span style="font-weight: bold;">Senior Secondary 10th ICSE Board</span>
 <br>
-Passed with 91.2 %
+Graduated with 91.2 %
 <br>
 <span style="font-size:15px;">[2010 - 2011]</span> 
 <br>
@@ -87,15 +87,15 @@ Passed with 91.2 %
 		<br>
 		<span style="font-weight:bold"> Software Engineer </span>
 		<br>
-			<span style="font-style:italic;font-size:15px;">August 2018 - Present (2 years 3 months)</span>
+			<span style="font-style:italic;font-size:15px;">August 2018 - Present (2 years 6 months)</span>
 			<br>
-			<span style="color:blue;font-size:15px;">Pune, India</span>
+			<span style="color:#39FF14;font-size:15px;">Pune, India</span>
 		<br>
 		<br>
 		<span style="font-weight:bold">  Product Development Associate </span>
 			<span style="font-style:italic;font-size:15px;">August 2018 - August 2019 (1 year 1 month)</span>
 			<br>
-			<span style="color:blue;font-size:15px;">Pune, India</span>
+			<span style="color:#39FF14;font-size:15px;">Pune, India</span>
 	<br>
 </details>
 
